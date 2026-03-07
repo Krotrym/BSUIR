@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u0421\u041F\\\u041B\u0430\u0431\u044B\\LibraryLab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F319D487-73D8-7112-8F5F-41EC036A539B}|Lab2\\Lab2.csproj|d:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0438\u0441\u043F\\\u043B\u0430\u0431\u044B\\librarylab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F319D487-73D8-7112-8F5F-41EC036A539B}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021C14A8-5E5A-A780-7408-C7E7A1F938AA}|LibraryLab2\\LibraryLab2.csproj|d:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0438\u0441\u043F\\\u043B\u0430\u0431\u044B\\librarylab2\\librarylab2\\streamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021C14A8-5E5A-A780-7408-C7E7A1F938AA}|LibraryLab2\\LibraryLab2.csproj|solutionrelative:librarylab2\\streamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021C14A8-5E5A-A780-7408-C7E7A1F938AA}|LibraryLab2\\LibraryLab2.csproj|d:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0438\u0441\u043F\\\u043B\u0430\u0431\u044B\\librarylab2\\librarylab2\\characterofgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021C14A8-5E5A-A780-7408-C7E7A1F938AA}|LibraryLab2\\LibraryLab2.csproj|solutionrelative:librarylab2\\characterofgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F319D487-73D8-7112-8F5F-41EC036A539B}|Lab2\\Lab2.csproj|d:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0438\u0441\u043F\\\u043B\u0430\u0431\u044B\\librarylab2\\lab2\\lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F319D487-73D8-7112-8F5F-41EC036A539B}|Lab2\\Lab2.csproj|solutionrelative:lab2\\lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab2.csproj",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u0421\u041F\\\u041B\u0430\u0431\u044B\\LibraryLab2\\Lab2\\Lab2.csproj",
+              "RelativeDocumentMoniker": "Lab2\\Lab2.csproj",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u0421\u041F\\\u041B\u0430\u0431\u044B\\LibraryLab2\\Lab2\\Lab2.csproj",
+              "RelativeToolTip": "Lab2\\Lab2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-11T18:22:14.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StreamService.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u0421\u041F\\\u041B\u0430\u0431\u044B\\LibraryLab2\\LibraryLab2\\StreamService.cs",
+              "RelativeDocumentMoniker": "LibraryLab2\\StreamService.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u0421\u041F\\\u041B\u0430\u0431\u044B\\LibraryLab2\\LibraryLab2\\StreamService.cs",
+              "RelativeToolTip": "LibraryLab2\\StreamService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:27:23.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u0421\u041F\\\u041B\u0430\u0431\u044B\\LibraryLab2\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2\\Program.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u0421\u041F\\\u041B\u0430\u0431\u044B\\LibraryLab2\\Lab2\\Program.cs",
+              "RelativeToolTip": "Lab2\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwDQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:19:04.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharacterOfGame.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u0421\u041F\\\u041B\u0430\u0431\u044B\\LibraryLab2\\LibraryLab2\\CharacterOfGame.cs",
+              "RelativeDocumentMoniker": "LibraryLab2\\CharacterOfGame.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0418\u0421\u041F\\\u041B\u0430\u0431\u044B\\LibraryLab2\\LibraryLab2\\CharacterOfGame.cs",
+              "RelativeToolTip": "LibraryLab2\\CharacterOfGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:18:39.674Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+D:\2kyrs\4semestr\ISP\Labs\LibraryForLab1\LibraryForLab1\bin\Debug\net10.0\LibraryForLab1.deps.json
+D:\2kyrs\4semestr\ISP\Labs\LibraryForLab1\LibraryForLab1\bin\Debug\net10.0\LibraryForLab1.dll
+D:\2kyrs\4semestr\ISP\Labs\LibraryForLab1\LibraryForLab1\bin\Debug\net10.0\LibraryForLab1.pdb
+D:\2kyrs\4semestr\ISP\Labs\LibraryForLab1\LibraryForLab1\obj\Debug\net10.0\LibraryForLab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\2kyrs\4semestr\ISP\Labs\LibraryForLab1\LibraryForLab1\obj\Debug\net10.0\LibraryForLab1.AssemblyInfoInputs.cache
+D:\2kyrs\4semestr\ISP\Labs\LibraryForLab1\LibraryForLab1\obj\Debug\net10.0\LibraryForLab1.AssemblyInfo.cs
+D:\2kyrs\4semestr\ISP\Labs\LibraryForLab1\LibraryForLab1\obj\Debug\net10.0\LibraryForLab1.csproj.CoreCompileInputs.cache
+D:\2kyrs\4semestr\ISP\Labs\LibraryForLab1\LibraryForLab1\obj\Debug\net10.0\LibraryForLab1.dll
+D:\2kyrs\4semestr\ISP\Labs\LibraryForLab1\LibraryForLab1\obj\Debug\net10.0\refint\LibraryForLab1.dll
+D:\2kyrs\4semestr\ISP\Labs\LibraryForLab1\LibraryForLab1\obj\Debug\net10.0\LibraryForLab1.pdb
+D:\2kyrs\4semestr\ISP\Labs\LibraryForLab1\LibraryForLab1\obj\Debug\net10.0\ref\LibraryForLab1.dll

@@ -1,0 +1,11 @@
+D:\2 курс\4 семестр\ИСП\Лабы\LibraryForLab1\LibraryLab1\bin\Debug\net8.0\LibraryLab1.deps.json
+D:\2 курс\4 семестр\ИСП\Лабы\LibraryForLab1\LibraryLab1\bin\Debug\net8.0\LibraryLab1.dll
+D:\2 курс\4 семестр\ИСП\Лабы\LibraryForLab1\LibraryLab1\bin\Debug\net8.0\LibraryLab1.pdb
+D:\2 курс\4 семестр\ИСП\Лабы\LibraryForLab1\LibraryLab1\obj\Debug\net8.0\LibraryLab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 курс\4 семестр\ИСП\Лабы\LibraryForLab1\LibraryLab1\obj\Debug\net8.0\LibraryLab1.AssemblyInfoInputs.cache
+D:\2 курс\4 семестр\ИСП\Лабы\LibraryForLab1\LibraryLab1\obj\Debug\net8.0\LibraryLab1.AssemblyInfo.cs
+D:\2 курс\4 семестр\ИСП\Лабы\LibraryForLab1\LibraryLab1\obj\Debug\net8.0\LibraryLab1.csproj.CoreCompileInputs.cache
+D:\2 курс\4 семестр\ИСП\Лабы\LibraryForLab1\LibraryLab1\obj\Debug\net8.0\LibraryLab1.dll
+D:\2 курс\4 семестр\ИСП\Лабы\LibraryForLab1\LibraryLab1\obj\Debug\net8.0\refint\LibraryLab1.dll
+D:\2 курс\4 семестр\ИСП\Лабы\LibraryForLab1\LibraryLab1\obj\Debug\net8.0\LibraryLab1.pdb
+D:\2 курс\4 семестр\ИСП\Лабы\LibraryForLab1\LibraryLab1\obj\Debug\net8.0\ref\LibraryLab1.dll
