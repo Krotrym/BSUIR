@@ -23,7 +23,7 @@ namespace Laboratornay4
         {
             await Task.Run(() =>
             {
-            semaphore.WaitAsync();
+            //semaphore.WaitAsync();
                 double h = 0.00000001;
                 double integral = 0.0;
                 long n = (long)(1 / h);
@@ -46,7 +46,7 @@ namespace Laboratornay4
                     }
                 }
                 progress.Report((100, integral.ToString()));
-                semaphore.Release();
+                //semaphore.Release();
             });
 
         }
@@ -54,8 +54,9 @@ namespace Laboratornay4
 
         private async void ButtonStartClick(object sender, EventArgs e)
         {
-            if (!await semaphore.WaitAsync(0))
-            { return; }
+            StartBtn.IsEnabled = false;
+            //if (!await semaphore.WaitAsync(0))
+            //{ return; }
                 try
                 {
                     cts = new CancellationTokenSource();
@@ -65,13 +66,14 @@ namespace Laboratornay4
                 catch
                 {
                     result.Text = "Задание отменено";
-                    semaphore.Release();
+                    //semaphore.Release();
 
                 }
             finally
                 {
-                    semaphore.Release();
-                }
+                StartBtn.IsEnabled = true;
+                //semaphore.Release();
+            }
         }
         private async void ButtonStopClick(object sender, EventArgs e)
         {

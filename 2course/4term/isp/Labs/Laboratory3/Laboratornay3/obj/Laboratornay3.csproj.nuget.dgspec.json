@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2kyrs\\4semestr\\isp\\Labs\\Laboratornay3\\Laboratornay3\\Laboratornay3.csproj": {}
+    "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory3\\Laboratornay3\\Laboratornay3.csproj": {}
   },
   "projects": {
-    "D:\\2kyrs\\4semestr\\isp\\Labs\\Laboratornay3\\Laboratornay3\\Laboratornay3.csproj": {
+    "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory3\\Laboratornay3\\Laboratornay3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2kyrs\\4semestr\\isp\\Labs\\Laboratornay3\\Laboratornay3\\Laboratornay3.csproj",
+        "projectUniqueName": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory3\\Laboratornay3\\Laboratornay3.csproj",
         "projectName": "Laboratornay3",
-        "projectPath": "D:\\2kyrs\\4semestr\\isp\\Labs\\Laboratornay3\\Laboratornay3\\Laboratornay3.csproj",
+        "projectPath": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory3\\Laboratornay3\\Laboratornay3.csproj",
         "packagesPath": "C:\\Users\\Жека\\.nuget\\packages\\",
-        "outputPath": "D:\\2kyrs\\4semestr\\ISP\\Labs\\Laboratornay3\\Laboratornay3\\obj\\",
+        "outputPath": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory3\\Laboratornay3\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

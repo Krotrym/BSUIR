@@ -22,9 +22,11 @@
                              x:Name="progressBar"
                              WidthRequest="130"
                              />
-                <Label HorizontalOptions="End" HeightRequest="20" Grid.Row="0" Grid.Column="2" Text="" x:Name="display"></Label>
+                <Label HorizontalOptions="End" HeightRequest="20" Grid.Row="0" Grid.Column="2" Text="{Binding Source={x:Reference progressBar}, Path=Progress}" x:Name="display"></Label>
                 
-                <Button Grid.Row ="1" Grid.Column="0" Clicked ="ButtonStartClick" Text="Start" WidthRequest="100" HeightRequest="10"/>
+                <Button Grid.Row ="1" Grid.Column="0" 
+                        Clicked ="ButtonStartClick" x:Name="StartBtn"
+                        Text="Start" WidthRequest="100" HeightRequest="10"/>
                 <Button Grid.Row ="1" Grid.Column="1" Clicked ="ButtonStopClick" Text="Cancel" WidthRequest="100" HeightRequest="10"/>
             </Grid>
         </VerticalStackLayout>

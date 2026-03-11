@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Laboratornay3</id>
+    <version>1.0.0</version>
+    <authors>Laboratornay3</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="3157f2b0932b8ac780f5444ec4213dd82baa6a60" />
+    <dependencies>
+      <group targetFramework="net10.0-android36.0">
+        <dependency id="Microsoft.Extensions.Logging.Debug" version="10.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls" version="10.0.20" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net10.0-ios26.2">
+        <dependency id="Microsoft.Extensions.Logging.Debug" version="10.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls" version="10.0.20" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net10.0-maccatalyst26.2">
+        <dependency id="Microsoft.Extensions.Logging.Debug" version="10.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls" version="10.0.20" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net10.0-windows10.0.19041">
+        <dependency id="Microsoft.Extensions.Logging.Debug" version="10.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls" version="10.0.20" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Study\2course\4term\isp\Labs\Laboratory3\Laboratornay3\bin\Debug\net10.0-android\Laboratornay3.runtimeconfig.json" target="lib\net10.0-android36.0\Laboratornay3.runtimeconfig.json" />
+    <file src="D:\Study\2course\4term\isp\Labs\Laboratory3\Laboratornay3\bin\Debug\net10.0-android\Laboratornay3.dll" target="lib\net10.0-android36.0\Laboratornay3.dll" />
+    <file src="D:\Study\2course\4term\isp\Labs\Laboratory3\Laboratornay3\bin\Debug\net10.0-android\Laboratornay3.xml" target="lib\net10.0-android36.0\Laboratornay3.xml" />
+    <file src="D:\Study\2course\4term\isp\Labs\Laboratory3\Laboratornay3\bin\Debug\net10.0-ios\iossimulator-x64\Laboratornay3.runtimeconfig.json" target="lib\net10.0-ios26.2\Laboratornay3.runtimeconfig.json" />
+    <file src="D:\Study\2course\4term\isp\Labs\Laboratory3\Laboratornay3\bin\Debug\net10.0-ios\iossimulator-x64\Laboratornay3.dll" target="lib\net10.0-ios26.2\Laboratornay3.dll" />
+    <file src="D:\Study\2course\4term\isp\Labs\Laboratory3\Laboratornay3\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\Laboratornay3.runtimeconfig.json" target="lib\net10.0-maccatalyst26.2\Laboratornay3.runtimeconfig.json" />
+    <file src="D:\Study\2course\4term\isp\Labs\Laboratory3\Laboratornay3\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\Laboratornay3.dll" target="lib\net10.0-maccatalyst26.2\Laboratornay3.dll" />
+    <file src="D:\Study\2course\4term\isp\Labs\Laboratory3\Laboratornay3\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Laboratornay3.runtimeconfig.json" target="lib\net10.0-windows10.0.19041\Laboratornay3.runtimeconfig.json" />
+    <file src="D:\Study\2course\4term\isp\Labs\Laboratory3\Laboratornay3\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Laboratornay3.dll" target="lib\net10.0-windows10.0.19041\Laboratornay3.dll" />
+    <file src="D:\Study\2course\4term\isp\Labs\Laboratory3\Laboratornay3\bin\Debug\net10.0-windows10.0.19041.0\win-x64\resources.pri" target="lib\net10.0-windows10.0.19041\resources.pri" />
+  </files>
+</package>

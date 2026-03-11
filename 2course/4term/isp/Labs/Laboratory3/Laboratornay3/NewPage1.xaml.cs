@@ -1,4 +1,4 @@
-
+#nullable disable
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Laboratornay3;

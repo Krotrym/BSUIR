@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cdXJ7o7oUY4=",
+  "dgSpecHash": "+5OhfmEBGVM=",
   "success": true,
-  "projectFilePath": "D:\\2kyrs\\4semestr\\isp\\Labs\\Laboratornay4\\Laboratornay4\\Laboratornay4.csproj",
+  "projectFilePath": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory4\\Laboratornay4\\Laboratornay4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Жека\\.nuget\\packages\\googlegson\\2.13.1.1\\googlegson.2.13.1.1.nupkg.sha512",
     "C:\\Users\\Жека\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.0\\microsoft.extensions.configuration.10.0.0.nupkg.sha512",

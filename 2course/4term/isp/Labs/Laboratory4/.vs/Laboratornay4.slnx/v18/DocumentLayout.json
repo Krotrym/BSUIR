@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\2kyrs\\4semestr\\isp\\Labs\\Laboratornay4\\",
+  "WorkspaceRootPath": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BE42DA1-84CD-17D9-69AF-758A5D4CDE40}|Laboratornay4\\Laboratornay4.csproj|d:\\2kyrs\\4semestr\\isp\\labs\\laboratornay4\\laboratornay4\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BE42DA1-84CD-17D9-69AF-758A5D4CDE40}|Laboratornay4\\Laboratornay4.csproj|d:\\study\\2course\\4term\\isp\\labs\\laboratory4\\laboratornay4\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BE42DA1-84CD-17D9-69AF-758A5D4CDE40}|Laboratornay4\\Laboratornay4.csproj|solutionrelative:laboratornay4\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BE42DA1-84CD-17D9-69AF-758A5D4CDE40}|Laboratornay4\\Laboratornay4.csproj|d:\\2kyrs\\4semestr\\isp\\labs\\laboratornay4\\laboratornay4\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{9BE42DA1-84CD-17D9-69AF-758A5D4CDE40}|Laboratornay4\\Laboratornay4.csproj|d:\\study\\2course\\4term\\isp\\labs\\laboratory4\\laboratornay4\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9BE42DA1-84CD-17D9-69AF-758A5D4CDE40}|Laboratornay4\\Laboratornay4.csproj|solutionrelative:laboratornay4\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BE42DA1-84CD-17D9-69AF-758A5D4CDE40}|Laboratornay4\\Laboratornay4.csproj|d:\\2kyrs\\4semestr\\isp\\labs\\laboratornay4\\laboratornay4\\laboratornay4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{9BE42DA1-84CD-17D9-69AF-758A5D4CDE40}|Laboratornay4\\Laboratornay4.csproj|d:\\study\\2course\\4term\\isp\\labs\\laboratory4\\laboratornay4\\laboratornay4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9BE42DA1-84CD-17D9-69AF-758A5D4CDE40}|Laboratornay4\\Laboratornay4.csproj|solutionrelative:laboratornay4\\laboratornay4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BE42DA1-84CD-17D9-69AF-758A5D4CDE40}|Laboratornay4\\Laboratornay4.csproj|d:\\2kyrs\\4semestr\\isp\\labs\\laboratornay4\\laboratornay4\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BE42DA1-84CD-17D9-69AF-758A5D4CDE40}|Laboratornay4\\Laboratornay4.csproj|d:\\study\\2course\\4term\\isp\\labs\\laboratory4\\laboratornay4\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BE42DA1-84CD-17D9-69AF-758A5D4CDE40}|Laboratornay4\\Laboratornay4.csproj|solutionrelative:laboratornay4\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BE42DA1-84CD-17D9-69AF-758A5D4CDE40}|Laboratornay4\\Laboratornay4.csproj|d:\\2kyrs\\4semestr\\isp\\labs\\laboratornay4\\laboratornay4\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{9BE42DA1-84CD-17D9-69AF-758A5D4CDE40}|Laboratornay4\\Laboratornay4.csproj|d:\\study\\2course\\4term\\isp\\labs\\laboratory4\\laboratornay4\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9BE42DA1-84CD-17D9-69AF-758A5D4CDE40}|Laboratornay4\\Laboratornay4.csproj|solutionrelative:laboratornay4\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Laboratornay4.csproj",
-              "DocumentMoniker": "D:\\2kyrs\\4semestr\\isp\\Labs\\Laboratornay4\\Laboratornay4\\Laboratornay4.csproj",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory4\\Laboratornay4\\Laboratornay4.csproj",
               "RelativeDocumentMoniker": "Laboratornay4\\Laboratornay4.csproj",
-              "ToolTip": "D:\\2kyrs\\4semestr\\isp\\Labs\\Laboratornay4\\Laboratornay4\\Laboratornay4.csproj",
+              "ToolTip": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory4\\Laboratornay4\\Laboratornay4.csproj",
               "RelativeToolTip": "Laboratornay4\\Laboratornay4.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -48,23 +48,24 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "D:\\2kyrs\\4semestr\\isp\\Labs\\Laboratornay4\\Laboratornay4\\MainPage.xaml",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory4\\Laboratornay4\\MainPage.xaml",
               "RelativeDocumentMoniker": "Laboratornay4\\MainPage.xaml",
-              "ToolTip": "D:\\2kyrs\\4semestr\\isp\\Labs\\Laboratornay4\\Laboratornay4\\MainPage.xaml",
+              "ToolTip": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory4\\Laboratornay4\\MainPage.xaml",
               "RelativeToolTip": "Laboratornay4\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-07T10:04:23.191Z"
+              "WhenOpened": "2026-03-07T10:04:23.191Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "D:\\2kyrs\\4semestr\\isp\\Labs\\Laboratornay4\\Laboratornay4\\MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory4\\Laboratornay4\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "Laboratornay4\\MainPage.xaml.cs",
-              "ToolTip": "D:\\2kyrs\\4semestr\\isp\\Labs\\Laboratornay4\\Laboratornay4\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory4\\Laboratornay4\\MainPage.xaml.cs",
               "RelativeToolTip": "Laboratornay4\\MainPage.xaml.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAuwDAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwBkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-07T10:04:25.002Z",
               "EditorCaption": ""
@@ -73,9 +74,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MauiProgram.cs",
-              "DocumentMoniker": "D:\\2kyrs\\4semestr\\isp\\Labs\\Laboratornay4\\Laboratornay4\\MauiProgram.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory4\\Laboratornay4\\MauiProgram.cs",
               "RelativeDocumentMoniker": "Laboratornay4\\MauiProgram.cs",
-              "ToolTip": "D:\\2kyrs\\4semestr\\isp\\Labs\\Laboratornay4\\Laboratornay4\\MauiProgram.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory4\\Laboratornay4\\MauiProgram.cs",
               "RelativeToolTip": "Laboratornay4\\MauiProgram.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,9 +86,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AppShell.xaml",
-              "DocumentMoniker": "D:\\2kyrs\\4semestr\\isp\\Labs\\Laboratornay4\\Laboratornay4\\AppShell.xaml",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory4\\Laboratornay4\\AppShell.xaml",
               "RelativeDocumentMoniker": "Laboratornay4\\AppShell.xaml",
-              "ToolTip": "D:\\2kyrs\\4semestr\\isp\\Labs\\Laboratornay4\\Laboratornay4\\AppShell.xaml",
+              "ToolTip": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory4\\Laboratornay4\\AppShell.xaml",
               "RelativeToolTip": "Laboratornay4\\AppShell.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",

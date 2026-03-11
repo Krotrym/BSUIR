@@ -14,7 +14,7 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Laboratornay3
-build_property.ProjectDir = D:\2kyrs\4semestr\isp\Labs\Laboratornay3\Laboratornay3\
+build_property.ProjectDir = D:\Study\2course\4term\isp\Labs\Laboratory3\Laboratornay3\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTAotOptimizerEnabled = true
@@ -28,7 +28,7 @@ build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/2kyrs/4semestr/isp/Labs/Laboratornay3/Laboratornay3/App.xaml]
+[D:/Study/2course/4term/isp/Labs/Laboratory3/Laboratornay3/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Laboratornay3.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
@@ -38,7 +38,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[D:/2kyrs/4semestr/isp/Labs/Laboratornay3/Laboratornay3/AppShell.xaml]
+[D:/Study/2course/4term/isp/Labs/Laboratory3/Laboratornay3/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Laboratornay3.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
@@ -48,7 +48,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[D:/2kyrs/4semestr/isp/Labs/Laboratornay3/Laboratornay3/MainPage.xaml]
+[D:/Study/2course/4term/isp/Labs/Laboratory3/Laboratornay3/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Laboratornay3.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
@@ -58,7 +58,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[D:/2kyrs/4semestr/isp/Labs/Laboratornay3/Laboratornay3/NewPage1.xaml]
+[D:/Study/2course/4term/isp/Labs/Laboratory3/Laboratornay3/NewPage1.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Laboratornay3.NewPage1.xaml
 build_metadata.AdditionalFiles.TargetPath = NewPage1.xaml
@@ -68,7 +68,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[D:/2kyrs/4semestr/isp/Labs/Laboratornay3/Laboratornay3/Resources/Styles/Colors.xaml]
+[D:/Study/2course/4term/isp/Labs/Laboratory3/Laboratornay3/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Laboratornay3.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
@@ -78,7 +78,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[D:/2kyrs/4semestr/isp/Labs/Laboratornay3/Laboratornay3/Resources/Styles/Styles.xaml]
+[D:/Study/2course/4term/isp/Labs/Laboratory3/Laboratornay3/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Laboratornay3.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

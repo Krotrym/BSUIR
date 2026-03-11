@@ -1,0 +1,8 @@
+<api type="release" assembly-name="Laboratornay3" mvid="125ed9e9037b43a1bb045789f7f9418f">
+  <module assembly-name="Laboratornay3" mvid="125ed9e9037b43a1bb045789f7f9418f" mvid-bytes="6dleEnsDoUO7BFeJ9/lBjw==">
+    <types-scratch>
+      <entry key="crc649a567f15c5eab6d4/MainActivity" java-name="crc649a567f15c5eab6d4/MainActivity" managed-type-name="Laboratornay3.MainActivity" token="33554442" />
+      <entry key="crc649a567f15c5eab6d4/MainApplication" java-name="crc649a567f15c5eab6d4/MainApplication" managed-type-name="Laboratornay3.MainApplication" token="33554443" />
+    </types-scratch>
+  </module>
+</api>

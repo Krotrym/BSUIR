@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="Laboratornay3" mvid="1d2cc2c86ff4402d80e8207fbffbfa6a">
+  <java-to-managed>
+    <entry java-name="crc649a567f15c5eab6d4/MainActivity" managed-name="Laboratornay3.MainActivity, Laboratornay3" managed-type-token-id="33554442" />
+    <entry java-name="crc649a567f15c5eab6d4/MainApplication" managed-name="Laboratornay3.MainApplication, Laboratornay3" managed-type-token-id="33554443" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc649a567f15c5eab6d4/MainActivity" managed-name="Laboratornay3.MainActivity, Laboratornay3" managed-type-token-id="33554442" />
+    <entry java-name="crc649a567f15c5eab6d4/MainApplication" managed-name="Laboratornay3.MainApplication, Laboratornay3" managed-type-token-id="33554443" />
+  </managed-to-java>
+</api>
