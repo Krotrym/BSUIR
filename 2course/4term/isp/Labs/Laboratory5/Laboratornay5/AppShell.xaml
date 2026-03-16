@@ -6,9 +6,12 @@
     xmlns:local="clr-namespace:Laboratornay5"
     Title="Laboratornay5">
 
-    <ShellContent
+    <FlyoutItem>
+        <ShellContent
         Title="kkkk"
         ContentTemplate="{DataTemplate local:NewPage1}"
         Route="NewPage1" />
+    </FlyoutItem>
+
 
 </Shell>

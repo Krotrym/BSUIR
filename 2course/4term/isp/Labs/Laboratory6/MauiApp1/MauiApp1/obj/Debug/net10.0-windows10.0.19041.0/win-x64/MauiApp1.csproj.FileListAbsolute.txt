@@ -1,0 +1,12 @@
+D:\Study\2course\4term\isp\Labs\Labaratory6\MauiApp1\MauiApp1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\MauiApp1.csproj.AssemblyReference.cache
+D:\Study\2course\4term\isp\Labs\Labaratory6\MauiApp1\MauiApp1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauiimage.inputs
+D:\Study\2course\4term\isp\Labs\Labaratory6\MauiApp1\MauiApp1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauifont.inputs
+D:\Study\2course\4term\isp\Labs\Labaratory6\MauiApp1\MauiApp1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauisplash.inputs
+D:\Study\2course\4term\isp\Labs\Labaratory6\MauiApp1\MauiApp1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauimanifest.stamp
+D:\Study\2course\4term\isp\Labs\Labaratory6\MauiApp1\MauiApp1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.g.i.cs
+D:\Study\2course\4term\isp\Labs\Labaratory6\MauiApp1\MauiApp1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.g.cs
+D:\Study\2course\4term\isp\Labs\Labaratory6\MauiApp1\MauiApp1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\XamlTypeInfo.g.cs
+D:\Study\2course\4term\isp\Labs\Labaratory6\MauiApp1\MauiApp1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.xaml
+D:\Study\2course\4term\isp\Labs\Labaratory6\MauiApp1\MauiApp1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.xbf
+D:\Study\2course\4term\isp\Labs\Labaratory6\MauiApp1\MauiApp1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\XamlSaveStateFile.xml
+D:\Study\2course\4term\isp\Labs\Labaratory6\MauiApp1\MauiApp1\obj\Debug\net10.0-windows10.0.19041.0\win-x64\MauiApp1.GeneratedMSBuildEditorConfig.editorconfig

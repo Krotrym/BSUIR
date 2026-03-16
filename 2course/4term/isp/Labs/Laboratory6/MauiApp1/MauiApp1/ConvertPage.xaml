@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Laboratornay6.ConvertPage">
+
+    <VerticalStackLayout>
+
+                        <Label Text="На 1 единицу валюты приходиться x бел рубля"/>
+        <CollectionView x:Name="LessonsList"
+        >
+            <CollectionView.ItemTemplate>   
+                <DataTemplate>
+                    <Grid ColumnDefinitions="150,60">
+                        <Label Text="{Binding Name}" />
+                        <Label Grid.Column="1" Text="{Binding Value}"/>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+
+        <DatePicker x:Name="datePicker" DateSelected="OnDateSelected" />
+
+        <Picker x:Name="picker"
+                Title="Выберите валюту"
+                />
+
+        <!--<Label x:Name="label"  Text="курс на 1 единицу валюты в бел рубли"></Label>-->
+        
+        <Entry x:Name="entryBel" Keyboard="Numeric" Completed="CompletedText" Placeholder="Введите сумму" />
+        <Entry x:Name="entryValue" Keyboard="Numeric" Completed="CompletedText1" Placeholder="Введите сумму" />
+
+    </VerticalStackLayout>
+
+</ContentPage>

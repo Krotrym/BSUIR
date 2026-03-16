@@ -8,7 +8,11 @@ namespace Laboratornay5.Services
 {
     class SQLiteService : IDbService
     {
+        //для тех кто взял код из гитхаба: ниже в "" находиться файл в которой находится
+        //наша база данных поэтому так как я ленивая жопа чтобы всё красиво работало
+        //откроейте это файл в блокноте и стерите всё содержимое
         static string pathToDb = @"D:\2kyrs\MyDataBase.db3";
+        
 
         SQLiteConnection db = new SQLiteConnection(pathToDb);
         public void Init()

@@ -12,5 +12,6 @@ namespace Laboratornay5
         [PrimaryKey, AutoIncrement, Indexed]
         public int Id { set; get; }
         public string Name { set; get; }
+        //public List<Annoucement> Annoucements { get; set; }
     }
 }

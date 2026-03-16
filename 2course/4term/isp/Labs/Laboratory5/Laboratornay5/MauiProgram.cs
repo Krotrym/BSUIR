@@ -9,8 +9,8 @@ namespace Laboratornay5
         {
             var builder = MauiApp.CreateBuilder();
             builder.Services.AddTransient<IDbService, SQLiteService>();
-           
             builder.Services.AddTransient<NewPage1>();
+
             builder
                 .UseMauiApp<App>()
                 .ConfigureFonts(fonts =>
