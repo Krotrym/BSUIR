@@ -1,0 +1,15 @@
+D:\Study\2course\4term\ООП\Лабы\APP\APP\bin\Debug\net10.0\APP.exe
+D:\Study\2course\4term\ООП\Лабы\APP\APP\bin\Debug\net10.0\APP.deps.json
+D:\Study\2course\4term\ООП\Лабы\APP\APP\bin\Debug\net10.0\APP.runtimeconfig.json
+D:\Study\2course\4term\ООП\Лабы\APP\APP\bin\Debug\net10.0\APP.dll
+D:\Study\2course\4term\ООП\Лабы\APP\APP\bin\Debug\net10.0\APP.pdb
+D:\Study\2course\4term\ООП\Лабы\APP\APP\obj\Debug\net10.0\APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\2course\4term\ООП\Лабы\APP\APP\obj\Debug\net10.0\APP.AssemblyInfoInputs.cache
+D:\Study\2course\4term\ООП\Лабы\APP\APP\obj\Debug\net10.0\APP.AssemblyInfo.cs
+D:\Study\2course\4term\ООП\Лабы\APP\APP\obj\Debug\net10.0\APP.csproj.CoreCompileInputs.cache
+D:\Study\2course\4term\ООП\Лабы\APP\APP\obj\Debug\net10.0\APP.sourcelink.json
+D:\Study\2course\4term\ООП\Лабы\APP\APP\obj\Debug\net10.0\APP.dll
+D:\Study\2course\4term\ООП\Лабы\APP\APP\obj\Debug\net10.0\refint\APP.dll
+D:\Study\2course\4term\ООП\Лабы\APP\APP\obj\Debug\net10.0\APP.pdb
+D:\Study\2course\4term\ООП\Лабы\APP\APP\obj\Debug\net10.0\APP.genruntimeconfig.cache
+D:\Study\2course\4term\ООП\Лабы\APP\APP\obj\Debug\net10.0\ref\APP.dll

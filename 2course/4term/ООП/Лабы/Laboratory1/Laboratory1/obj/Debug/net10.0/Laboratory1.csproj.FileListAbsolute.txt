@@ -1,0 +1,15 @@
+D:\Study\2course\4term\ООП\Лабы\Laboratory1\Laboratory1\bin\Debug\net10.0\Laboratory1.exe
+D:\Study\2course\4term\ООП\Лабы\Laboratory1\Laboratory1\bin\Debug\net10.0\Laboratory1.deps.json
+D:\Study\2course\4term\ООП\Лабы\Laboratory1\Laboratory1\bin\Debug\net10.0\Laboratory1.runtimeconfig.json
+D:\Study\2course\4term\ООП\Лабы\Laboratory1\Laboratory1\bin\Debug\net10.0\Laboratory1.dll
+D:\Study\2course\4term\ООП\Лабы\Laboratory1\Laboratory1\bin\Debug\net10.0\Laboratory1.pdb
+D:\Study\2course\4term\ООП\Лабы\Laboratory1\Laboratory1\obj\Debug\net10.0\Laboratory1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\2course\4term\ООП\Лабы\Laboratory1\Laboratory1\obj\Debug\net10.0\Laboratory1.AssemblyInfoInputs.cache
+D:\Study\2course\4term\ООП\Лабы\Laboratory1\Laboratory1\obj\Debug\net10.0\Laboratory1.AssemblyInfo.cs
+D:\Study\2course\4term\ООП\Лабы\Laboratory1\Laboratory1\obj\Debug\net10.0\Laboratory1.csproj.CoreCompileInputs.cache
+D:\Study\2course\4term\ООП\Лабы\Laboratory1\Laboratory1\obj\Debug\net10.0\Laboratory1.sourcelink.json
+D:\Study\2course\4term\ООП\Лабы\Laboratory1\Laboratory1\obj\Debug\net10.0\Laboratory1.dll
+D:\Study\2course\4term\ООП\Лабы\Laboratory1\Laboratory1\obj\Debug\net10.0\refint\Laboratory1.dll
+D:\Study\2course\4term\ООП\Лабы\Laboratory1\Laboratory1\obj\Debug\net10.0\Laboratory1.pdb
+D:\Study\2course\4term\ООП\Лабы\Laboratory1\Laboratory1\obj\Debug\net10.0\Laboratory1.genruntimeconfig.cache
+D:\Study\2course\4term\ООП\Лабы\Laboratory1\Laboratory1\obj\Debug\net10.0\ref\Laboratory1.dll
