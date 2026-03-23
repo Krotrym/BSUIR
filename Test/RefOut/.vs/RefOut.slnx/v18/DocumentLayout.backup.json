@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Test\\RefOut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9758C76-9BC7-80E9-F01C-91EC71EB7836}|RefOut\\RefOut.csproj|d:\\study\\test\\refout\\refout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9758C76-9BC7-80E9-F01C-91EC71EB7836}|RefOut\\RefOut.csproj|solutionrelative:refout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\Test\\RefOut\\RefOut\\Program.cs",
+              "RelativeDocumentMoniker": "RefOut\\Program.cs",
+              "ToolTip": "D:\\Study\\Test\\RefOut\\RefOut\\Program.cs",
+              "RelativeToolTip": "RefOut\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:16:02.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

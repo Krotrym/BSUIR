@@ -6,31 +6,57 @@ namespace Laboratory1
 {
     public class Insurance
     {
-        private string type;
-        private double cost;
-        public string Type
+        private string policyNumber;      
+        private string insuranceType;     
+        private double cost;             
+        private bool isActive;            
+        public string PolicyNumber
         {
-            get => type;
-
-            set
-            {
-                type = value;
-            }
+            get => policyNumber; 
+            set { policyNumber = value; }
         }
+
+        public string InsuranceType
+        {
+            get => insuranceType; 
+            set { insuranceType = value; }
+        }
+
         public double Cost
         {
             get => cost;
-
-            set
-            {
-                cost = value;
-            }
+            set { cost = value; }
         }
 
-        public Insurance(string type, double cost)
+        public bool IsActive
         {
-            Type = type;
-            Cost = cost;
+            get => isActive;
+            set { isActive = value; }
+        }
+
+        public Insurance()
+        {
+            policyNumber = "";
+            insuranceType = "";
+            cost = 0;
+            isActive = false;
+        }
+        public void Activate()
+        {
+            isActive = true;
+            Console.WriteLine("Страховка " + policyNumber + " активирована");
+        }
+        public void Cancel()
+        {
+            isActive = false;
+            Console.WriteLine("Страховка " + policyNumber + " отменена");
+        }
+        public void ShowInfo()
+        {
+            Console.WriteLine("Полис: " + policyNumber);
+            Console.WriteLine("Тип: " + insuranceType);
+            Console.WriteLine("Стоимость: " + cost);
+            Console.WriteLine("Статус: " + (isActive ? "Активна" : "Неактивна"));
         }
     }
 

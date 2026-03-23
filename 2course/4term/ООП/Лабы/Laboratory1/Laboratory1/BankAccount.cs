@@ -7,51 +7,58 @@ namespace Laboratory1
     public class BankAccount
     {
         private string accountNumber;
-        private string currency;
         private double balance;
+        private string currency;
 
         public string AccountNumber
         {
             get => accountNumber;
-            set
-            {
-                accountNumber = value;
-            }
+            set { accountNumber = value; }
         }
-        public string Currency
-        {
-            get => currency;
-            set
-            {
-                currency = value;
-            }
-        }
+
         public double Balance
         {
             get => balance;
-            set
-            {
-                balance = value;
-            }
+            set { balance = value; }
         }
 
-        public BankAccount(string accountNumber, string currency)
+        public string Currency
         {
-            AccountNumber = accountNumber;
-            Currency = currency;
-            Balance = 0.0;
+            get => currency;
+            set { currency = value; }
+        }
+
+        public BankAccount()
+        {
+            accountNumber = "";
+            balance = 0;
+            currency = "RUB";
         }
 
         public void Deposit(double amount)
         {
-            Balance += amount;
+            if (amount > 0)
+            {
+                balance = balance + amount;
+                Console.WriteLine("Пополнение: " + amount + " " + currency);
+            }
         }
 
         public bool Withdraw(double amount)
         {
-            if (amount > Balance) return false;
-            Balance -= amount;
-            return true;
+            if (amount > 0 && amount <= balance)
+            {
+                balance = balance - amount;
+                Console.WriteLine("Снятие: " + amount + " " + currency);
+                return true;
+            }
+            Console.WriteLine("Недостаточно средств!");
+            return false;
+        }
+
+        public void ShowBalance()
+        {
+            Console.WriteLine("Счет: " + accountNumber + ", Баланс: " + balance + " " + currency);
         }
     }
 

@@ -1,16 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\WinFormsApp1\\",
+  "WorkspaceRootPath": "D:\\Study\\2course\\4term\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\WinFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|d:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\lab1\\winformsapp1\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|d:\\study\\2course\\4term\\\u043C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\lab1\\winformsapp1\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0416\u0435\u043A\u0430\\Desktop\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72FBEA8-AA70-4633-9497-41A2D199CD9E}|WinFormsApp1\\WinFormsApp1.csproj|D:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|D:\\Study\\2course\\4term\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72FBEA8-AA70-4633-9497-41A2D199CD9E}|WinFormsApp1\\WinFormsApp1.csproj|D:\\Study\\2course\\4term\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D72FBEA8-AA70-4633-9497-41A2D199CD9E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -21,39 +25,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAAEVAAAAAAAAAAAawBIVAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-03-04T19:06:54.579Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\WinFormsApp1\\WinFormsApp1\\Program.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\WinFormsApp1\\WinFormsApp1\\Program.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
-              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\WinFormsApp1\\WinFormsApp1\\Program.cs",
-              "RelativeToolTip": "WinFormsApp1\\Program.cs",
-              "ViewState": "AgIAAAEBAAAAAAAAAAAgwBMBAAA8AAAAAAAAAA==",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\WinFormsApp1\\WinFormsApp1\\Program.cs*",
+              "RelativeToolTip": "WinFormsApp1\\Program.cs*",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAIwF4BAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-04T18:02:55.511Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0416\u0435\u043A\u0430\\Desktop\\Main.cpp",
+              "ToolTip": "C:\\Users\\\u0416\u0435\u043A\u0430\\Desktop\\Main.cpp",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAIwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-18T18:03:40.497Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\WinFormsApp1\\WinFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T18:03:55.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
               "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\WinFormsApp1\\WinFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "WinFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\WinFormsApp1\\WinFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-04T18:02:49.103Z"
             }

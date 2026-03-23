@@ -9,45 +9,55 @@ namespace Laboratory1
         private double amount;
         private double interestRate;
         private int months;
+        private double monthlyPayment;
+
         public double Amount
         {
             get => amount;
-
-            set
-            {
-                amount = value;
-            }
+            set { amount = value; }
         }
+
         public double InterestRate
         {
             get => interestRate;
-
-            set
-            {
-                interestRate = value;
-            }
+            set { interestRate = value; }
         }
+
         public int Months
         {
             get => months;
+            set { months = value; }
+        }
 
-            set
+        public double MonthlyPayment
+        {
+            get => monthlyPayment;
+            set { monthlyPayment = value; }
+        }
+
+        public Loan()
+        {
+            amount = 0;
+            interestRate = 0;
+            months = 0;
+            monthlyPayment = 0;
+        }
+
+        public void CalculateMonthlyPayment()
+        {
+            if (interestRate == 0 || months == 0)
             {
-                months = value;
+                monthlyPayment = amount / months;
+                return;
             }
+            double monthlyRate = interestRate / 12 / 100;
+            monthlyPayment = amount * monthlyRate / (1 - Math.Pow(1 + monthlyRate, -months));
         }
 
-        public Loan(double amount, double interestRate, int months)
+        public void ShowLoanInfo()
         {
-            Amount = amount;
-            InterestRate = interestRate;
-            Months = months;
-        }
-
-        public double CalculateMonthlyPayment()
-        {
-            double monthlyRate = InterestRate / 12 / 100;
-            return Amount * monthlyRate / (1 - Math.Pow(1 + monthlyRate, -Months));
+            Console.WriteLine("Cумма " + amount + ", ставка " + interestRate + "%, срок " + months + " мес.");
+            Console.WriteLine("Ежемесячный платеж: " + monthlyPayment);
         }
     }
 

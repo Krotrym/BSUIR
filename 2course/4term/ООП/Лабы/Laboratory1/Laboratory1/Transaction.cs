@@ -6,42 +6,64 @@ namespace Laboratory1
 {
     public class Transaction
     {
-        private string type;
+        private DateTime date;
         private double amount;
-        private string date;
-        public string Type
-        {
-            get => type;
+        private string type;
+        private string status;
 
-            set
-            {
-                type = value;
-            }
+        public DateTime Date
+        {
+            get => date;
+            set { date = value; }
         }
+
         public double Amount
         {
             get => amount;
-
-            set
-            {
-                amount = value;
-            }
-        }
-        public string Date
-        {
-            get => date;
-
-            set
-            {
-                date = value;
-            }
+            set { amount = value; }
         }
 
-        public Transaction(string type, double amount, string date)
+        public string Type
         {
-            Type = type;
-            Amount = amount;
-            Date = date;
+            get => type;
+            set { type = value; }
+        }
+
+        public string Status
+        {
+            get => status;
+            set { status = value; }
+        }
+
+        public Transaction()
+        {
+            date = DateTime.Now;
+            amount = 0;
+            type = "";
+            status = "Pending";
+        }
+
+        public void Execute()
+        {
+            if (amount > 0)
+            {
+                status = "Completed";
+                Console.WriteLine("Транзакция  выполнена на сумму " + amount);
+            }
+            else
+            {
+                status = "Failed";
+                Console.WriteLine("Ошибка выполнения транзакции");
+            }
+        }
+
+        public void Cancel()
+        {
+            if (status == "Completed")
+            {
+                status = "Cancelled";
+                Console.WriteLine("Транзакция  отменена");
+            }
         }
     }
 

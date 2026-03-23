@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\ConsoleApp1\\",
+  "WorkspaceRootPath": "D:\\Study\\2course\\4term\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC9A435F-5C52-4016-B578-02F291164900}|ConsoleApp1\\ConsoleApp1.csproj|d:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\lab1\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC9A435F-5C52-4016-B578-02F291164900}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|d:\\study\\2course\\4term\\\u043C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\lab1\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\ConsoleApp1\\ConsoleApp1\\Program.cs*",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041C\u0435\u0442\u0440\u043E\u043B\u043E\u0433\u0438\u044F\\Lab1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-04T18:01:24.241Z",
               "EditorCaption": ""

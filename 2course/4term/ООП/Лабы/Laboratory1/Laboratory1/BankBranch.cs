@@ -7,30 +7,37 @@ namespace Laboratory1
     public class BankBranch
     {
         private string address;
-        private string managerName;
+        private string phone;
+        private string workingHours;
+
         public string Address
         {
             get => address;
-
-            set
-            {
-                address = value;
-            }
-        }
-        public string ManagerName
-        {
-            get => managerName;
-
-            set
-            {
-                managerName = value;
-            }
+            set { address = value; }
         }
 
-        public BankBranch(string address, string managerName)
+        public string Phone
         {
-            Address = address;
-            ManagerName = managerName;
+            get => phone;
+            set { phone = value; }
+        }
+
+        public string WorkingHours
+        {
+            get => workingHours;
+            set { workingHours = value; }
+        }
+
+        public BankBranch()
+        {
+            address = "";
+            phone = "";
+            workingHours = "09:00-18:00";
+        }
+
+        public string GetBranchInfo()
+        {
+            return "Отделение адрес: " + address + ", тел: " + phone;
         }
     }
 

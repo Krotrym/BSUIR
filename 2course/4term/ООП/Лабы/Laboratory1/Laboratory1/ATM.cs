@@ -4,43 +4,56 @@ using System.Text;
 
 namespace Laboratory1
 {
-    public class ATM
+    public class Atm
     {
         private string location;
-        private double cashAmount;
+        private double cashBalance;
+        private bool isOnline;
+
         public string Location
-        { get => location;
-            set
-            {
-                location = value;
-            }
+        {
+            get => location; 
+            set { location = value; }
         }
 
-        public double CashAmount
+        public double CashBalance
         {
-            get => cashAmount;
-            set
-            {
-                cashAmount = value;
-            }
+            get => cashBalance; 
+            set { cashBalance = value; }
         }
 
-        public ATM(string location, double cashAmount)
+        public bool IsOnline
         {
-            Location = location;
-            CashAmount = cashAmount;
+            get => isOnline; 
+            set { isOnline = value; }
+        }
+
+        public Atm()
+        {
+            location = "";
+            cashBalance = 0;
+            isOnline = false;
         }
 
         public bool WithdrawCash(double amount)
         {
-            if (amount > CashAmount) return false;
-            CashAmount -= amount;
-            return true;
+            if (isOnline && amount > 0 && amount <= cashBalance)
+            {
+                cashBalance = cashBalance - amount;
+                Console.WriteLine("ATM выдал " + amount);
+                return true;
+            }
+            Console.WriteLine("Операция недоступна");
+            return false;
         }
 
         public void LoadCash(double amount)
         {
-            CashAmount += amount;
+            if (amount > 0)
+            {
+                cashBalance = cashBalance + amount;
+                Console.WriteLine("ATM загружен на " + amount);
+            }
         }
     }
 

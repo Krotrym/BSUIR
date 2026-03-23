@@ -1,0 +1,15 @@
+D:\Study\Test\RefOut\RefOut\bin\Debug\net10.0\RefOut.exe
+D:\Study\Test\RefOut\RefOut\bin\Debug\net10.0\RefOut.deps.json
+D:\Study\Test\RefOut\RefOut\bin\Debug\net10.0\RefOut.runtimeconfig.json
+D:\Study\Test\RefOut\RefOut\bin\Debug\net10.0\RefOut.dll
+D:\Study\Test\RefOut\RefOut\bin\Debug\net10.0\RefOut.pdb
+D:\Study\Test\RefOut\RefOut\obj\Debug\net10.0\RefOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Test\RefOut\RefOut\obj\Debug\net10.0\RefOut.AssemblyInfoInputs.cache
+D:\Study\Test\RefOut\RefOut\obj\Debug\net10.0\RefOut.AssemblyInfo.cs
+D:\Study\Test\RefOut\RefOut\obj\Debug\net10.0\RefOut.csproj.CoreCompileInputs.cache
+D:\Study\Test\RefOut\RefOut\obj\Debug\net10.0\RefOut.sourcelink.json
+D:\Study\Test\RefOut\RefOut\obj\Debug\net10.0\RefOut.dll
+D:\Study\Test\RefOut\RefOut\obj\Debug\net10.0\refint\RefOut.dll
+D:\Study\Test\RefOut\RefOut\obj\Debug\net10.0\RefOut.pdb
+D:\Study\Test\RefOut\RefOut\obj\Debug\net10.0\RefOut.genruntimeconfig.cache
+D:\Study\Test\RefOut\RefOut\obj\Debug\net10.0\ref\RefOut.dll

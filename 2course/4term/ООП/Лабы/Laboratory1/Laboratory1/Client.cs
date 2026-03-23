@@ -7,47 +7,45 @@ namespace Laboratory1
 {
     public class Client
     {
-        private string fullName;
-        private string passportNumber;
-        private string phone;
-        public string FullName
-        {
-            get => fullName;
+        private string firstName;
+        private string lastName;
+        private string phoneNumber;
 
-            set
-            {
-                fullName = value;
-            }
-        }
-        public string PassportNumber
+        public string FirstName
         {
-            get => passportNumber;
-
-            set
-            {
-                passportNumber = value;
-            }
-        }
-        public string Phone
-        {
-            get => phone;
-
-            set
-            {
-                phone = value;
-            }
+            get => firstName;
+            set { firstName = value; }
         }
 
-        public Client(string fullName, string passportNumber, string phone)
+        public string LastName
         {
-            FullName = fullName;
-            PassportNumber = passportNumber;
-            Phone = phone;
+            get => lastName;
+            set { lastName = value; }
         }
 
-        public void UpdatePhone(string newPhone)
+        public string PhoneNumber
         {
-            Phone = newPhone;
+            get => phoneNumber;
+            set { phoneNumber = value; }
+        }
+
+        public Client()
+        {
+            firstName = "";
+            lastName = "";
+            phoneNumber = "";
+        }
+
+        public void SetClientData(string fName, string lName, string phone)
+        {
+            firstName = fName;
+            lastName = lName;
+            phoneNumber = phone;
+        }
+
+        public string GetClientInfo()
+        {
+            return "Имя: " + firstName + " " + lastName + ", Тел: " + phoneNumber;
         }
     }
 
