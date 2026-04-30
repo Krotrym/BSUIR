@@ -1,0 +1,37 @@
+﻿{
+  "cargo": {
+    "lines": [
+      {
+        "product": {
+          "Name": "Электроника",
+          "UnitPerKillo": 1.5,
+          "CostPerKillo": 50.0
+        },
+        "Quantity": 10
+      },
+      {
+        "product": {
+          "Name": "Одежда",
+          "UnitPerKillo": 0.8,
+          "CostPerKillo": 20.0
+        },
+        "Quantity": 5
+      }
+    ]
+  },
+  "transports": [
+    {
+      "Type": "Грузовик (Земля)",
+      "ConsumptionPerkilometer": 15.0,
+      "Speed": 80.0,
+      "Factory": "Ground"
+    },
+    {
+      "Type": "Поезд (Земля)",
+      "ConsumptionPerkilometer": 5.0,
+      "Speed": 60.0,
+      "Factory": "Ground"
+    }
+  ],
+  "distance": 1200
+}

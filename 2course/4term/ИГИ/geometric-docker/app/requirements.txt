@@ -1,1 +1,0 @@
-git+https://github.com/smartiqaorg/geometric_lib.git@main

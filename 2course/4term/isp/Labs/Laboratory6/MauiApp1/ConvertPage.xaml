@@ -25,10 +25,9 @@
                 Title="Выберите валюту"
                 />
 
-        <!--<Label x:Name="label"  Text="курс на 1 единицу валюты в бел рубли"></Label>-->
         
-        <Entry x:Name="entryBel" Keyboard="Numeric" Completed="CompletedText" Placeholder="Введите сумму" />
-        <Entry x:Name="entryValue" Keyboard="Numeric" Completed="CompletedText1" Placeholder="Введите сумму" />
+        <Entry x:Name="entryBel" Keyboard="Numeric" Completed="CompletedText" Placeholder="Введите количесвто белорусских рублей" />
+        <Entry x:Name="entryValue" Keyboard="Numeric" Completed="CompletedText1" Placeholder="Введите количество вбраной валюты" />
 
     </VerticalStackLayout>
 

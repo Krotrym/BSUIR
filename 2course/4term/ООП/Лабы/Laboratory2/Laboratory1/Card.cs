@@ -1,0 +1,69 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Laboratory1
+{
+    public class Card
+    {
+        private string cardNumber;
+        private string pinCode;
+        private string cvcCode;
+        private string expiryDate;
+        private bool isBlocked;
+
+        public string CvcCode
+        {  get => cvcCode;  
+           set => cvcCode = value;
+        }
+        public string CardNumber
+        {
+            get => cardNumber;
+            set { cardNumber = value; }
+        }
+
+        public string PinCode
+        {
+            get => pinCode;
+            set { pinCode = value; }
+        }
+
+        public string ExpiryDate
+        {
+            get => expiryDate;
+            set { expiryDate = value; }
+        }
+
+        public bool IsBlocked
+        {
+            get => isBlocked;
+            set { isBlocked = value; }
+        }
+
+        public Card(string cardNumber, string pinCode, string cvcCode, string expiryDate, bool isBlocked)
+        {
+            CardNumber = cardNumber;
+            PinCode = pinCode;
+            CvcCode = cvcCode;
+            ExpiryDate = expiryDate;
+            IsBlocked = isBlocked;
+        }
+
+        public bool CheckPin(string enteredPin)
+        {
+            return enteredPin == pinCode;
+        }
+
+        public void Block()
+        {
+            isBlocked = true;
+            Console.WriteLine("Карта " + cardNumber + " заблокирована");
+        }
+
+        public void Unblock()
+        {
+            isBlocked = false;
+            Console.WriteLine("Карта " + cardNumber + " разблокирована");
+        }
+    }
+}

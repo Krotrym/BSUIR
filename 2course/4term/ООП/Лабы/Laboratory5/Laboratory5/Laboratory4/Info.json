@@ -1,0 +1,56 @@
+﻿{
+  "products": [
+    {
+      "Name": "Электроника",
+      "UnitPerKillo": 1.5,
+      "CostPerKillo": 50.0
+    },
+    {
+      "Name": "Одежда",
+      "UnitPerKillo": 0.8,
+      "CostPerKillo": 20.0
+    },
+    {
+      "Name": "Оборудование",
+      "UnitPerKillo": 120.0,
+      "CostPerKillo": 15.0
+    },
+    {
+      "Name": "Скоропортящиеся продукты",
+      "UnitPerKillo": 10.0,
+      "CostPerKillo": 100.0
+    }
+  ],
+  "transports": [
+    {
+      "Type": "Грузовик (Земля)",
+      "ConsumptionPerkilometer": 15.0,
+      "Speed": 80.0,
+      "Factory": "Ground"
+    },
+    {
+      "Type": "Поезд (Земля)",
+      "ConsumptionPerkilometer": 5.0,
+      "Speed": 60.0,
+      "Factory": "Ground"
+    },
+    {
+      "Type": "Танкер (Вода)",
+      "ConsumptionPerkilometer": 2.0,
+      "Speed": 35.0,
+      "Factory": "Water"
+    },
+    {
+      "Type": "Самолет (Воздух)",
+      "ConsumptionPerkilometer": 150.0,
+      "Speed": 850.0,
+      "Factory": "Air"
+    },
+    {
+      "Type": "Вертолет (Воздух)",
+      "ConsumptionPerkilometer": 200.0,
+      "Speed": 250.0,
+      "Factory": "Air"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Test\\DBFirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF1B8FC-71B5-4004-9733-DED09B11BD90}|DBFirstApp\\DBFirstApp.csproj|d:\\study\\test\\dbfirstapp\\dbfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF1B8FC-71B5-4004-9733-DED09B11BD90}|DBFirstApp\\DBFirstApp.csproj|solutionrelative:dbfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF1B8FC-71B5-4004-9733-DED09B11BD90}|DBFirstApp\\DBFirstApp.csproj|d:\\study\\test\\dbfirstapp\\dbfirstapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF1B8FC-71B5-4004-9733-DED09B11BD90}|DBFirstApp\\DBFirstApp.csproj|solutionrelative:dbfirstapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\Test\\DBFirstApp\\DBFirstApp\\HelloappContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DBFirstApp\\HelloappContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Study\\Test\\DBFirstApp\\DBFirstApp\\User.cs",
+              "RelativeDocumentMoniker": "DBFirstApp\\User.cs",
+              "ToolTip": "D:\\Study\\Test\\DBFirstApp\\DBFirstApp\\User.cs",
+              "RelativeToolTip": "DBFirstApp\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T18:14:43.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloappContext.cs",
+              "DocumentMoniker": "D:\\Study\\Test\\DBFirstApp\\DBFirstApp\\HelloappContext.cs",
+              "RelativeDocumentMoniker": "DBFirstApp\\HelloappContext.cs",
+              "ToolTip": "D:\\Study\\Test\\DBFirstApp\\DBFirstApp\\HelloappContext.cs",
+              "RelativeToolTip": "DBFirstApp\\HelloappContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T18:13:43.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\Test\\DBFirstApp\\DBFirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "DBFirstApp\\Program.cs",
+              "ToolTip": "D:\\Study\\Test\\DBFirstApp\\DBFirstApp\\Program.cs",
+              "RelativeToolTip": "DBFirstApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T18:07:10.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

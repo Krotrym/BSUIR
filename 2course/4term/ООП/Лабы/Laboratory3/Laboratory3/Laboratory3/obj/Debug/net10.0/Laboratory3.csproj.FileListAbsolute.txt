@@ -1,0 +1,15 @@
+D:\Study\2course\4term\ООП\Лабы\Laboratory3\Laboratory3\Laboratory3\bin\Debug\net10.0\Laboratory3.exe
+D:\Study\2course\4term\ООП\Лабы\Laboratory3\Laboratory3\Laboratory3\bin\Debug\net10.0\Laboratory3.deps.json
+D:\Study\2course\4term\ООП\Лабы\Laboratory3\Laboratory3\Laboratory3\bin\Debug\net10.0\Laboratory3.runtimeconfig.json
+D:\Study\2course\4term\ООП\Лабы\Laboratory3\Laboratory3\Laboratory3\bin\Debug\net10.0\Laboratory3.dll
+D:\Study\2course\4term\ООП\Лабы\Laboratory3\Laboratory3\Laboratory3\bin\Debug\net10.0\Laboratory3.pdb
+D:\Study\2course\4term\ООП\Лабы\Laboratory3\Laboratory3\Laboratory3\obj\Debug\net10.0\Laboratory3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\2course\4term\ООП\Лабы\Laboratory3\Laboratory3\Laboratory3\obj\Debug\net10.0\Laboratory3.AssemblyInfoInputs.cache
+D:\Study\2course\4term\ООП\Лабы\Laboratory3\Laboratory3\Laboratory3\obj\Debug\net10.0\Laboratory3.AssemblyInfo.cs
+D:\Study\2course\4term\ООП\Лабы\Laboratory3\Laboratory3\Laboratory3\obj\Debug\net10.0\Laboratory3.csproj.CoreCompileInputs.cache
+D:\Study\2course\4term\ООП\Лабы\Laboratory3\Laboratory3\Laboratory3\obj\Debug\net10.0\Laboratory3.sourcelink.json
+D:\Study\2course\4term\ООП\Лабы\Laboratory3\Laboratory3\Laboratory3\obj\Debug\net10.0\Laboratory3.dll
+D:\Study\2course\4term\ООП\Лабы\Laboratory3\Laboratory3\Laboratory3\obj\Debug\net10.0\refint\Laboratory3.dll
+D:\Study\2course\4term\ООП\Лабы\Laboratory3\Laboratory3\Laboratory3\obj\Debug\net10.0\Laboratory3.pdb
+D:\Study\2course\4term\ООП\Лабы\Laboratory3\Laboratory3\Laboratory3\obj\Debug\net10.0\Laboratory3.genruntimeconfig.cache
+D:\Study\2course\4term\ООП\Лабы\Laboratory3\Laboratory3\Laboratory3\obj\Debug\net10.0\ref\Laboratory3.dll

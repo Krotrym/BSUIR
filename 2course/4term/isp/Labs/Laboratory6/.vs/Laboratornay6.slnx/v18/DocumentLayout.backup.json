@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{054B3019-6A4B-C724-CFBB-A0018789873D}|MauiApp1\\Labaratornay6.csproj|d:\\study\\2course\\4term\\isp\\labs\\laboratory6\\mauiapp1\\services\\rateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054B3019-6A4B-C724-CFBB-A0018789873D}|MauiApp1\\Labaratornay6.csproj|solutionrelative:mauiapp1\\services\\rateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{054B3019-6A4B-C724-CFBB-A0018789873D}|MauiApp1\\Labaratornay6.csproj|d:\\study\\2course\\4term\\isp\\labs\\laboratory6\\mauiapp1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{054B3019-6A4B-C724-CFBB-A0018789873D}|MauiApp1\\Labaratornay6.csproj|solutionrelative:mauiapp1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054B3019-6A4B-C724-CFBB-A0018789873D}|MauiApp1\\Labaratornay6.csproj|d:\\study\\2course\\4term\\isp\\labs\\laboratory6\\mauiapp1\\convertpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054B3019-6A4B-C724-CFBB-A0018789873D}|MauiApp1\\Labaratornay6.csproj|solutionrelative:mauiapp1\\convertpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054B3019-6A4B-C724-CFBB-A0018789873D}|MauiApp1\\Labaratornay6.csproj|d:\\study\\2course\\4term\\isp\\labs\\laboratory6\\mauiapp1\\convertpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{054B3019-6A4B-C724-CFBB-A0018789873D}|MauiApp1\\Labaratornay6.csproj|solutionrelative:mauiapp1\\convertpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054B3019-6A4B-C724-CFBB-A0018789873D}|MauiApp1\\Labaratornay6.csproj|d:\\study\\2course\\4term\\isp\\labs\\laboratory6\\mauiapp1\\services\\irateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054B3019-6A4B-C724-CFBB-A0018789873D}|MauiApp1\\Labaratornay6.csproj|solutionrelative:mauiapp1\\services\\irateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.30\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -22,19 +38,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RateService.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory6\\MauiApp1\\Services\\RateService.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\Services\\RateService.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory6\\MauiApp1\\Services\\RateService.cs",
+              "RelativeToolTip": "MauiApp1\\Services\\RateService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T12:28:40.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRateService.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory6\\MauiApp1\\Services\\IRateService.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\Services\\IRateService.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory6\\MauiApp1\\Services\\IRateService.cs",
+              "RelativeToolTip": "MauiApp1\\Services\\IRateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T12:28:39.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConvertPage.xaml.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory6\\MauiApp1\\ConvertPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\ConvertPage.xaml.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory6\\MauiApp1\\ConvertPage.xaml.cs",
+              "RelativeToolTip": "MauiApp1\\ConvertPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T18:28:13.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConvertPage.xaml",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory6\\MauiApp1\\ConvertPage.xaml",
+              "RelativeDocumentMoniker": "MauiApp1\\ConvertPage.xaml",
+              "ToolTip": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory6\\MauiApp1\\ConvertPage.xaml",
+              "RelativeToolTip": "MauiApp1\\ConvertPage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T18:28:11.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory6\\MauiApp1\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MauiApp1\\MauiProgram.cs",
               "ToolTip": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory6\\MauiApp1\\MauiProgram.cs",
               "RelativeToolTip": "MauiApp1\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T20:32:25.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Xamarin.Android.Aapt2.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.30\\tools\\Xamarin.Android.Aapt2.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.30\\tools\\Xamarin.Android.Aapt2.targets",

@@ -31,4 +31,4 @@ D:\Study\2course\4term\Метрология\Lab1\WinFormsApp1\WinFormsApp1\obj\D
 D:\Study\2course\4term\Метрология\Lab1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
 D:\Study\2course\4term\Метрология\Lab1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
 D:\Study\2course\4term\Метрология\Lab1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
-D:\Study\2course\4term\Метрология\Lab1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\GilbMetricsFinal.MainForm.resources
+D:\Study\2course\4term\Метрология\Lab1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\GilbMetricParser.MainForm.resources

@@ -1,0 +1,41 @@
+﻿<Delivery>
+	<cargo>
+		<lines>
+			<Cargo>
+				<product>
+					<Name>Электроника</Name>
+					<UnitPerKillo>1.5</UnitPerKillo>
+					<CostPerKillo>50.0</CostPerKillo>
+				</product>
+				<Quantity>10</Quantity>
+			</Cargo>
+
+			<Cargo>
+				<product>
+					<Name>Одежда</Name>
+					<UnitPerKillo>0.8</UnitPerKillo>
+					<CostPerKillo>20.0</CostPerKillo>
+				</product>
+				<Quantity>5</Quantity>
+			</Cargo>
+		</lines>
+	</cargo>
+
+	<transports>
+		<TemporaryTransport>
+			<Type>Грузовик (Земля)</Type>
+			<ConsumptionPerkilometer>15.0</ConsumptionPerkilometer>
+			<Speed>80.0</Speed>
+			<Factory>Ground</Factory>
+		</TemporaryTransport>
+
+		<TemporaryTransport>
+			<Type>Поезд (Земля)</Type>
+			<ConsumptionPerkilometer>5.0</ConsumptionPerkilometer>
+			<Speed>60.0</Speed>
+			<Factory>Ground</Factory>
+		</TemporaryTransport>
+	</transports>
+
+	<distance>1200</distance>
+</Delivery>

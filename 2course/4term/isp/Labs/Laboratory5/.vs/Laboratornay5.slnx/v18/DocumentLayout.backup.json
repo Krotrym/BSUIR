@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8E033754-B98C-9A7E-79EE-BBF53B5E04B6}|Laboratornay5\\Laboratornay5.csproj|d:\\study\\2course\\4term\\isp\\labs\\laboratory5\\laboratornay5\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E033754-B98C-9A7E-79EE-BBF53B5E04B6}|Laboratornay5\\Laboratornay5.csproj|solutionrelative:laboratornay5\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E033754-B98C-9A7E-79EE-BBF53B5E04B6}|Laboratornay5\\Laboratornay5.csproj|d:\\study\\2course\\4term\\isp\\labs\\laboratory5\\laboratornay5\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E033754-B98C-9A7E-79EE-BBF53B5E04B6}|Laboratornay5\\Laboratornay5.csproj|solutionrelative:laboratornay5\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E033754-B98C-9A7E-79EE-BBF53B5E04B6}|Laboratornay5\\Laboratornay5.csproj|d:\\study\\2course\\4term\\isp\\labs\\laboratory5\\laboratornay5\\services\\sqliteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E033754-B98C-9A7E-79EE-BBF53B5E04B6}|Laboratornay5\\Laboratornay5.csproj|solutionrelative:laboratornay5\\services\\sqliteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E033754-B98C-9A7E-79EE-BBF53B5E04B6}|Laboratornay5\\Laboratornay5.csproj|d:\\study\\2course\\4term\\isp\\labs\\laboratory5\\laboratornay5\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E033754-B98C-9A7E-79EE-BBF53B5E04B6}|Laboratornay5\\Laboratornay5.csproj|solutionrelative:laboratornay5\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E033754-B98C-9A7E-79EE-BBF53B5E04B6}|Laboratornay5\\Laboratornay5.csproj|d:\\study\\2course\\4term\\isp\\labs\\laboratory5\\laboratornay5\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E033754-B98C-9A7E-79EE-BBF53B5E04B6}|Laboratornay5\\Laboratornay5.csproj|solutionrelative:laboratornay5\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E033754-B98C-9A7E-79EE-BBF53B5E04B6}|Laboratornay5\\Laboratornay5.csproj|d:\\study\\2course\\4term\\isp\\labs\\laboratory5\\laboratornay5\\entities\\carbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8E033754-B98C-9A7E-79EE-BBF53B5E04B6}|Laboratornay5\\Laboratornay5.csproj|d:\\study\\2course\\4term\\isp\\labs\\laboratory5\\laboratornay5\\entities\\announcementsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E033754-B98C-9A7E-79EE-BBF53B5E04B6}|Laboratornay5\\Laboratornay5.csproj|solutionrelative:laboratornay5\\entities\\announcementsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E033754-B98C-9A7E-79EE-BBF53B5E04B6}|Laboratornay5\\Laboratornay5.csproj|d:\\study\\2course\\4term\\isp\\labs\\laboratory5\\laboratornay5\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8E033754-B98C-9A7E-79EE-BBF53B5E04B6}|Laboratornay5\\Laboratornay5.csproj|solutionrelative:laboratornay5\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E033754-B98C-9A7E-79EE-BBF53B5E04B6}|Laboratornay5\\Laboratornay5.csproj|d:\\study\\2course\\4term\\isp\\labs\\laboratory5\\laboratornay5\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,31 +66,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "NewPage1.xaml.cs",
               "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory5\\Laboratornay5\\NewPage1.xaml.cs",
               "RelativeDocumentMoniker": "Laboratornay5\\NewPage1.xaml.cs",
               "ToolTip": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory5\\Laboratornay5\\NewPage1.xaml.cs",
               "RelativeToolTip": "Laboratornay5\\NewPage1.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T21:49:02.561Z"
+              "WhenOpened": "2026-03-10T21:49:02.561Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory5\\Laboratornay5\\AppShell.xaml",
-              "RelativeDocumentMoniker": "Laboratornay5\\AppShell.xaml",
-              "ToolTip": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory5\\Laboratornay5\\AppShell.xaml",
-              "RelativeToolTip": "Laboratornay5\\AppShell.xaml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-12T21:34:22.923Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory5\\Laboratornay5\\MauiProgram.cs",
               "RelativeDocumentMoniker": "Laboratornay5\\MauiProgram.cs",
@@ -102,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Laboratornay5.csproj",
               "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory5\\Laboratornay5\\Laboratornay5.csproj",
               "RelativeDocumentMoniker": "Laboratornay5\\Laboratornay5.csproj",
@@ -114,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IDbService.cs",
               "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory5\\Laboratornay5\\Services\\IDbService.cs",
               "RelativeDocumentMoniker": "Laboratornay5\\Services\\IDbService.cs",
@@ -126,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CarBrand.cs",
               "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory5\\Laboratornay5\\Entities\\CarBrand.cs",
               "RelativeDocumentMoniker": "Laboratornay5\\Entities\\CarBrand.cs",
@@ -138,20 +127,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SQLiteService.cs",
               "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory5\\Laboratornay5\\Services\\SQLiteService.cs",
               "RelativeDocumentMoniker": "Laboratornay5\\Services\\SQLiteService.cs",
               "ToolTip": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory5\\Laboratornay5\\Services\\SQLiteService.cs",
               "RelativeToolTip": "Laboratornay5\\Services\\SQLiteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAD4vwwAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vw0AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T06:14:33.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "NewPage1.xaml",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory5\\Laboratornay5\\NewPage1.xaml",
+              "RelativeDocumentMoniker": "Laboratornay5\\NewPage1.xaml",
+              "ToolTip": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory5\\Laboratornay5\\NewPage1.xaml",
+              "RelativeToolTip": "Laboratornay5\\NewPage1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-10T21:48:57.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory5\\Laboratornay5\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Laboratornay5\\AppShell.xaml",
+              "ToolTip": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory5\\Laboratornay5\\AppShell.xaml",
+              "RelativeToolTip": "Laboratornay5\\AppShell.xaml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-12T21:34:22.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AnnouncementSale.cs",
               "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory5\\Laboratornay5\\Entities\\AnnouncementSale.cs",
               "RelativeDocumentMoniker": "Laboratornay5\\Entities\\AnnouncementSale.cs",
@@ -160,18 +174,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T21:50:11.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NewPage1.xaml",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory5\\Laboratornay5\\NewPage1.xaml",
-              "RelativeDocumentMoniker": "Laboratornay5\\NewPage1.xaml",
-              "ToolTip": "D:\\Study\\2course\\4term\\isp\\Labs\\Laboratory5\\Laboratornay5\\NewPage1.xaml",
-              "RelativeToolTip": "Laboratornay5\\NewPage1.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-10T21:48:57.548Z"
             },
             {
               "$type": "Document",
