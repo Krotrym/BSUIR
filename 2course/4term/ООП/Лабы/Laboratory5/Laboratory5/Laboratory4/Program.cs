@@ -29,15 +29,15 @@ namespace Laboratory4
             delivery.ShowInfo();
 
 
-        
-            //ISortCriterion<Result> byPriceAsc = new SortByPriceCriterion(SortDirection.Ascending);
+
+            ISortCriterion<Result> byPriceAsc = new SortByPriceCriterion(SortDirection.Ascending);
             //ISortCriterion<Result> bySpeedDesc = new SortBySpeedCriterion(SortDirection.Descending);
-            //var sortPipeline = new SortPipeline<Result>();
-            //sortPipeline.AddCriterion(byPriceAsc);   
-            //sortPipeline.AddCriterion(bySpeedDesc);  
-            //var finalList = sortPipeline.Apply(delivery.results).ToList();
-            //delivery.results = finalList;
-            //delivery.ShowInfo();
+            var sortPipeline = new SortPipeline<Result>();
+            sortPipeline.AddCriterion(byPriceAsc);
+            //sortPipeline.AddCriterion(bySpeedDesc);
+            var finalList = sortPipeline.Apply(delivery.results).ToList();
+            delivery.results = finalList;
+            delivery.ShowInfo();
 
 
 
@@ -47,7 +47,17 @@ namespace Laboratory4
             string csv = mySerializer.MyCsvSerializer(delivery);
 
             //var saver = new ZipSaver(new JsonSaver());
-            //saver.SaveToZip(json, "data.zip", "data.json");
+            //using var file = File.Create("output.zip");
+            //saver.Save(json, file);
+
+            IDataSaver saver =
+                     new EncryptSaver(
+                            new JsonSaver(),
+                                "password123");
+
+            using var file = File.Create("output.txt");
+            saver.Save(json, file);
+
 
             //var saver = new ZipSaver(
             //                new EncryptSaver(
@@ -59,7 +69,8 @@ namespace Laboratory4
             //var saver = new ZipSaver(
             //        new CsvSaver()
             //      );
-            //saver.SaveToZip(csv, "report.zip", "report.csv");
+            //using var file = File.Create("output.zip");
+            //saver.Save(csv, file);
 
         }
     }

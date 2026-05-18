@@ -7,7 +7,7 @@ namespace Laboratory4.Export.Decorator
 {
     using System.IO.Compression;
 
-    public class ZipSaver
+    public class ZipSaver : IDataSaver
     {
         private readonly IDataSaver _inner;
 
@@ -16,15 +16,16 @@ namespace Laboratory4.Export.Decorator
             _inner = inner;
         }
 
-        public void SaveToZip(string data, string zipPath, string innerFileName)
+        public void Save(string data, Stream output)
         {
-            using var zip = ZipFile.Open(zipPath, ZipArchiveMode.Create);
-            var entry = zip.CreateEntry(innerFileName);
+            using var zip = new ZipArchive(output, ZipArchiveMode.Create, leaveOpen: true);
+            var entry = zip.CreateEntry("data.txt");
 
             using var entryStream = entry.Open();
             _inner.Save(data, entryStream);
         }
     }
+
 
 
 

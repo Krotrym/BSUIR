@@ -12,13 +12,13 @@ namespace Laboratory4.Export.Serializer
         {
             var list = new List<InformationForExport>();
 
-            foreach (var item in delivery.realtransports)
+            foreach (var item in delivery.results)
             {
                 list.Add(new InformationForExport
                 {
                     Type = item.Type,
-                    Cost = delivery.CalculateCost(item),
-                    Time = delivery.CalculateTime(item)
+                    Cost = item.Cost,
+                    Time = item.Time
                 });
             }
 
@@ -38,13 +38,13 @@ namespace Laboratory4.Export.Serializer
 
             lines.Add("Type,Cost,Time");
 
-            foreach (var item in delivery.realtransports)
+            foreach (var item in delivery.results)
             {
                 var info = new InformationForExport
                 {
                     Type = item.Type,
-                    Cost = delivery.CalculateCost(item),
-                    Time = delivery.CalculateTime(item)
+                    Cost = item.Cost,
+                    Time = item.Time
                 };
 
                 string line = $"{info.Type},{info.Cost},{info.Time}";

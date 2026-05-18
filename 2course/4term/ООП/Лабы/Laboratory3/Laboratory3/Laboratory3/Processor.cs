@@ -1,16 +1,8 @@
-﻿// =========================================================
-// Файл: Processor.cs
-// Описание: Основная бизнес-логика.
-// =========================================================
-
-namespace Orders;
+﻿namespace Orders;
 
 using System;
 using System.Collections.Generic;
 
-/// <summary>
-/// Интерфейсы для разделения обязанностей и инверсии зависимостей
-/// </summary>
 interface IOrderRepository
 {
     void SaveOrder(Order order, double total);
@@ -42,9 +34,6 @@ interface IPriceCalculator
     double CalculateTotal(Order order);
 }
 
-/// <summary>
-/// Реализации валидации и расчёта, вынесенные из OrderProcessor
-/// </summary>
 class DefaultOrderValidator : IOrderValidator
 {
     public void Validate(Order order)
@@ -56,10 +45,6 @@ class DefaultOrderValidator : IOrderValidator
             throw new ArgumentException("destination city is required", nameof(order));
     }
 }
-
-/// <summary>
-/// DefaultPriceCalculator — считает сумму и применяет скидку по дисконтной карте.
-/// </summary>
 class DefaultPriceCalculator : IPriceCalculator
 {
     public double CalculateTotal(Order order)
@@ -96,7 +81,6 @@ class DefaultPriceCalculator : IPriceCalculator
                 throw new ArgumentException("unknown order type", nameof(order));
         }
 
-        // Применяем скидку по дисконтной карте
         var discountPercent = GetDiscountPercent(order.DiscountCard);
         if (discountPercent > 0)
         {
@@ -119,9 +103,6 @@ class DefaultPriceCalculator : IPriceCalculator
     }
 }
 
-/// <summary>
-/// OrderProcessor — оркеструет обработку заказа, уведомления и логирование.
-/// </summary>
 class OrderProcessor
 {
     private readonly IOrderRepository _repository;
@@ -131,7 +112,6 @@ class OrderProcessor
     private readonly IOrderValidator _validator;
     private readonly IPriceCalculator _calculator;
 
-    // Конструктор по умолчанию: создаёт реализации инфраструктуры и обёртку кэша
     public OrderProcessor()
         : this(
             new CachedOrderRepository(new RandomSQLDatabase()),
@@ -142,7 +122,6 @@ class OrderProcessor
             new DefaultPriceCalculator())
     { }
 
-    // Конструктор для внедрения зависимостей
     public OrderProcessor(
         IOrderRepository repository,
         IEmailSender emailSender,
@@ -163,16 +142,12 @@ class OrderProcessor
     {
         Console.WriteLine($"--- Processing Order {order.Id} ---");
 
-        // 1. Валидация
         _validator.Validate(order);
-
-        // 2. Расчёт суммы
         double total = _calculator.CalculateTotal(order);
 
         if (double.IsNaN(total))
             return;
 
-        // 3. Сохранение (кэш внутри репозитория предотвратит повторную запись)
         try
         {
             _repository.SaveOrder(order, total);
@@ -183,7 +158,6 @@ class OrderProcessor
             throw;
         }
 
-        // 4. Уведомления: Email клиенту, Telegram менеджеру, логирование события
         var emailBody = $"<h1>Your order {order.Id} is confirmed!</h1><p>Total: {total:F2}</p>";
         _emailSender.SendHtmlEmail(order.ClientEmail, "Order Confirmation", emailBody);
 

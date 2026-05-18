@@ -1,16 +1,6 @@
-﻿// =========================================================
-// Файл: Infrastructure.cs
-// Описание: Имитация работы с БД и внешними сервисами.
-// =========================================================
-
-namespace Orders;
+﻿namespace Orders;
 
 using System.Collections.Generic;
-
-/// <summary>
-/// RandomSQLDatabase - имитация тяжелой базы данных.
-/// Реализует IOrderRepository чтобы зависимые компоненты могли работать через абстракцию.
-/// </summary>
 class RandomSQLDatabase : IOrderRepository
 {
     public string ConnectionString { get; set; } = "random://root:password@localhost:228/shop";
@@ -38,11 +28,6 @@ class RandomSQLDatabase : IOrderRepository
         Console.WriteLine("Order saved successfully.");
     }
 }
-
-/// <summary>
-/// CachedOrderRepository - кэширующая обёртка над IOrderRepository.
-/// Если заказ уже в кэше, не обращается к "тяжёлой" БД.
-/// </summary>
 class CachedOrderRepository : IOrderRepository
 {
     private readonly IOrderRepository _inner;
@@ -61,16 +46,11 @@ class CachedOrderRepository : IOrderRepository
             return;
         }
 
-        // Добавляем в кэш до сохранения, чтобы избежать гонок (простая модель)
         _cache.Add(order.Id);
         _inner.SaveOrder(order, total);
     }
 }
 
-/// <summary>
-/// SmtpMailer - имитация почтового сервиса.
-/// Реализует IEmailSender чтобы зависимые компоненты могли работать через абстракцию.
-/// </summary>
 class SmtpMailer : IEmailSender
 {
     public required string Server { get; set; }
@@ -89,9 +69,6 @@ class SmtpMailer : IEmailSender
     }
 }
 
-/// <summary>
-/// TelegramSender - имитация отправки уведомлений в Telegram.
-/// </summary>
 class TelegramSender : ITelegramSender
 {
     public required string BotToken { get; init; }
@@ -107,22 +84,15 @@ class TelegramSender : ITelegramSender
 
     public void SendMessage(string chatId, string message)
     {
-        // Симуляция отправки в Telegram
         Console.WriteLine($">> Connecting to Telegram Bot {BotToken}...");
         Console.WriteLine($">> Sending TELEGRAM to chat {chatId}\n   Message: {message}");
     }
 
-    // Удобный метод для отправки менеджеру
     public void SendToManager(string message)
     {
         SendMessage(ManagerChatId, message);
     }
 }
-
-/// <summary>
-/// EventLogger - внутренняя система логирования событий.
-/// Записывает события в текстовый лог events_log.txt.
-/// </summary>
 class EventLogger : IEventLogger
 {
     private readonly string _filePath;

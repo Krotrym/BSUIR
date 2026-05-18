@@ -3,20 +3,76 @@
   "WorkspaceRootPath": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\deserialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\deserialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\name.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\name.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\cargobatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\cargobatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\export\\iexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\export\\iexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\export\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\export\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\export\\jsonexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\export\\jsonexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\export\\decorator\\exportdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\export\\decorator\\exportdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\export\\decorator\\encryptiondecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\export\\decorator\\encryptiondecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\export\\decorator\\zipdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\export\\decorator\\zipdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\strategy\\sorted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\strategy\\sorted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\strategy\\sortpipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\strategy\\sortpipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\strategy\\isortcriterion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\strategy\\isortcriterion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\export\\serializer\\myserializers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\export\\serializer\\myserializers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\export\\serializer\\informationforexport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\export\\serializer\\informationforexport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\deserialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\deserialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\abstractfactory\\groundfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,64 +107,8 @@
       "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\name.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\export\\serializer\\myserializers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\export\\serializer\\myserializers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\export\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\export\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\export\\serializer\\informationforexport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\export\\serializer\\informationforexport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\strategy\\sortpipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\strategy\\sortpipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\strategy\\isortcriterion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\strategy\\isortcriterion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\strategy\\sorted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\strategy\\sorted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\cargobatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\cargobatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\export\\decorator\\encryptiondecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\export\\decorator\\encryptiondecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\export\\decorator\\zipdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\export\\decorator\\zipdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\export\\jsonexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\export\\jsonexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\export\\iexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\export\\iexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\export\\decorator\\exportdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|solutionrelative:laboratory4\\export\\decorator\\exportdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF47CC67-4DDA-FAD1-4473-BC7E722DD786}|Laboratory4\\Laboratory4.csproj|d:\\study\\2course\\4term\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laboratory5\\laboratory5\\laboratory4\\info.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -134,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,20 +142,95 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Deserialize.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Deserialize.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\Deserialize.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Deserialize.cs",
-              "RelativeToolTip": "Laboratory4\\Deserialize.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowDgAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\Program.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Program.cs",
+              "RelativeToolTip": "Laboratory4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T10:40:45.782Z",
+              "WhenOpened": "2026-04-24T13:30:40.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IExporter.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\IExporter.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\Export\\IExporter.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\IExporter.cs",
+              "RelativeToolTip": "Laboratory4\\Export\\IExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:09:34.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JsonExporter.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\JsonExporter.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\Export\\JsonExporter.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\JsonExporter.cs",
+              "RelativeToolTip": "Laboratory4\\Export\\JsonExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:09:49.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CsvExporter.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\CsvExporter.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\Export\\CsvExporter.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\CsvExporter.cs",
+              "RelativeToolTip": "Laboratory4\\Export\\CsvExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:10:05.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "sorted.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Strategy\\sorted.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\Strategy\\sorted.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Strategy\\sorted.cs",
+              "RelativeToolTip": "Laboratory4\\Strategy\\sorted.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T12:25:01.895Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Cargo.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\Cargo.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Cargo.cs",
+              "RelativeToolTip": "Laboratory4\\Cargo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T13:47:06.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CargoBatch.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\CargoBatch.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\CargoBatch.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\CargoBatch.cs",
+              "RelativeToolTip": "Laboratory4\\CargoBatch.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T13:58:13.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "name.json",
               "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\name.json",
               "RelativeDocumentMoniker": "Laboratory4\\name.json",
@@ -168,202 +243,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GroundFactory.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\AbstractFactory\\GroundFactory.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\AbstractFactory\\GroundFactory.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\AbstractFactory\\GroundFactory.cs",
-              "RelativeToolTip": "Laboratory4\\AbstractFactory\\GroundFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T15:44:51.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GroundTransport.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\TypeTransport\\GroundTransport.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\TypeTransport\\GroundTransport.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\TypeTransport\\GroundTransport.cs",
-              "RelativeToolTip": "Laboratory4\\TypeTransport\\GroundTransport.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T14:36:30.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Transport.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\TypeTransport\\Transport.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\TypeTransport\\Transport.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\TypeTransport\\Transport.cs",
-              "RelativeToolTip": "Laboratory4\\TypeTransport\\Transport.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAtwCMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T14:16:30.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Delivery.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Delivery.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\Delivery.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Delivery.cs",
-              "RelativeToolTip": "Laboratory4\\Delivery.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAUwDUAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T14:46:49.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Program.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\Program.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Program.cs",
-              "RelativeToolTip": "Laboratory4\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwBkAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T13:30:40.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TemporaryTransport.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\TypeTransport\\TemporaryTransport.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\TypeTransport\\TemporaryTransport.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\TypeTransport\\TemporaryTransport.cs",
-              "RelativeToolTip": "Laboratory4\\TypeTransport\\TemporaryTransport.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T11:58:55.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "WaterTransport.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\TypeTransport\\WaterTransport.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\TypeTransport\\WaterTransport.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\TypeTransport\\WaterTransport.cs",
-              "RelativeToolTip": "Laboratory4\\TypeTransport\\WaterTransport.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "ZipDecorator.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\Decorator\\ZipDecorator.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\Export\\Decorator\\ZipDecorator.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\Decorator\\ZipDecorator.cs",
+              "RelativeToolTip": "Laboratory4\\Export\\Decorator\\ZipDecorator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T14:36:42.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T14:09:53.317Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "WaterFactory.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\AbstractFactory\\WaterFactory.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\AbstractFactory\\WaterFactory.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\AbstractFactory\\WaterFactory.cs",
-              "RelativeToolTip": "Laboratory4\\AbstractFactory\\WaterFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "ExportDecorator.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\Decorator\\ExportDecorator.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\Export\\Decorator\\ExportDecorator.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\Decorator\\ExportDecorator.cs",
+              "RelativeToolTip": "Laboratory4\\Export\\Decorator\\ExportDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T15:45:13.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T13:10:17.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IAbstractFactory.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\AbstractFactory\\IAbstractFactory.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\AbstractFactory\\IAbstractFactory.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\AbstractFactory\\IAbstractFactory.cs",
-              "RelativeToolTip": "Laboratory4\\AbstractFactory\\IAbstractFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "EncryptionDecorator.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\Decorator\\EncryptionDecorator.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\Export\\Decorator\\EncryptionDecorator.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\Decorator\\EncryptionDecorator.cs",
+              "RelativeToolTip": "Laboratory4\\Export\\Decorator\\EncryptionDecorator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T15:43:26.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MySerializers.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\Serializer\\MySerializers.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\Export\\Serializer\\MySerializers.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\Serializer\\MySerializers.cs",
-              "RelativeToolTip": "Laboratory4\\Export\\Serializer\\MySerializers.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAMwCgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T17:35:43.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T13:10:57.217Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "name.xml",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\name.xml",
-              "RelativeDocumentMoniker": "Laboratory4\\name.xml",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\name.xml",
-              "RelativeToolTip": "Laboratory4\\name.xml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-28T19:35:08.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Product.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\Product.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Product.cs",
-              "RelativeToolTip": "Laboratory4\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T13:31:03.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CsvExporter.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\CsvExporter.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\Export\\CsvExporter.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\CsvExporter.cs",
-              "RelativeToolTip": "Laboratory4\\Export\\CsvExporter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T13:10:05.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "InformationForExport.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\Serializer\\InformationForExport.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\Export\\Serializer\\InformationForExport.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\Serializer\\InformationForExport.cs",
-              "RelativeToolTip": "Laboratory4\\Export\\Serializer\\InformationForExport.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T17:34:22.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "SortPipeLine.cs",
               "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Strategy\\SortPipeLine.cs",
               "RelativeDocumentMoniker": "Laboratory4\\Strategy\\SortPipeLine.cs",
               "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Strategy\\SortPipeLine.cs",
               "RelativeToolTip": "Laboratory4\\Strategy\\SortPipeLine.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA0AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T12:32:51.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-29T12:32:51.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 12,
               "Title": "ISortCriterion.cs",
               "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Strategy\\ISortCriterion.cs",
               "RelativeDocumentMoniker": "Laboratory4\\Strategy\\ISortCriterion.cs",
@@ -371,25 +299,23 @@
               "RelativeToolTip": "Laboratory4\\Strategy\\ISortCriterion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T12:24:26.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-29T12:24:26.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "sorted.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Strategy\\sorted.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\Strategy\\sorted.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Strategy\\sorted.cs",
-              "RelativeToolTip": "Laboratory4\\Strategy\\sorted.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAADwvwYAAAA3AAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "MySerializers.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\Serializer\\MySerializers.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\Export\\Serializer\\MySerializers.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\Serializer\\MySerializers.cs",
+              "RelativeToolTip": "Laboratory4\\Export\\Serializer\\MySerializers.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAWwC4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T12:25:01.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T17:35:43.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 14,
               "Title": "Result.cs",
               "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Result.cs",
               "RelativeDocumentMoniker": "Laboratory4\\Result.cs",
@@ -397,92 +323,151 @@
               "RelativeToolTip": "Laboratory4\\Result.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T12:40:52.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-29T12:40:52.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Cargo.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Cargo.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\Cargo.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Cargo.cs",
-              "RelativeToolTip": "Laboratory4\\Cargo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "Delivery.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Delivery.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\Delivery.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Delivery.cs",
+              "RelativeToolTip": "Laboratory4\\Delivery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T13:47:06.75Z"
+              "WhenOpened": "2026-04-24T14:46:49.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CargoBatch.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\CargoBatch.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\CargoBatch.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\CargoBatch.cs",
-              "RelativeToolTip": "Laboratory4\\CargoBatch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "InformationForExport.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\Serializer\\InformationForExport.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\Export\\Serializer\\InformationForExport.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\Serializer\\InformationForExport.cs",
+              "RelativeToolTip": "Laboratory4\\Export\\Serializer\\InformationForExport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T13:58:13.819Z"
+              "WhenOpened": "2026-04-28T17:34:22.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Deserialize.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Deserialize.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\Deserialize.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Deserialize.cs",
+              "RelativeToolTip": "Laboratory4\\Deserialize.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:40:45.782Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "EncryptionDecorator.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\Decorator\\EncryptionDecorator.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\Export\\Decorator\\EncryptionDecorator.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\Decorator\\EncryptionDecorator.cs",
-              "RelativeToolTip": "Laboratory4\\Export\\Decorator\\EncryptionDecorator.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
+              "Title": "TemporaryTransport.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\TypeTransport\\TemporaryTransport.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\TypeTransport\\TemporaryTransport.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\TypeTransport\\TemporaryTransport.cs",
+              "RelativeToolTip": "Laboratory4\\TypeTransport\\TemporaryTransport.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T13:10:57.217Z"
+              "WhenOpened": "2026-04-28T11:58:55.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\TypeTransport\\Transport.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\TypeTransport\\Transport.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\TypeTransport\\Transport.cs",
+              "RelativeToolTip": "Laboratory4\\TypeTransport\\Transport.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAtwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T14:16:30.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GroundTransport.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\TypeTransport\\GroundTransport.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\TypeTransport\\GroundTransport.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\TypeTransport\\GroundTransport.cs",
+              "RelativeToolTip": "Laboratory4\\TypeTransport\\GroundTransport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T14:36:30.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GroundFactory.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\AbstractFactory\\GroundFactory.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\AbstractFactory\\GroundFactory.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\AbstractFactory\\GroundFactory.cs",
+              "RelativeToolTip": "Laboratory4\\AbstractFactory\\GroundFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:44:51.334Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "ZipDecorator.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\Decorator\\ZipDecorator.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\Export\\Decorator\\ZipDecorator.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\Decorator\\ZipDecorator.cs",
-              "RelativeToolTip": "Laboratory4\\Export\\Decorator\\ZipDecorator.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Title": "WaterTransport.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\TypeTransport\\WaterTransport.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\TypeTransport\\WaterTransport.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\TypeTransport\\WaterTransport.cs",
+              "RelativeToolTip": "Laboratory4\\TypeTransport\\WaterTransport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T14:09:53.317Z"
+              "WhenOpened": "2026-04-24T14:36:42.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WaterFactory.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\AbstractFactory\\WaterFactory.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\AbstractFactory\\WaterFactory.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\AbstractFactory\\WaterFactory.cs",
+              "RelativeToolTip": "Laboratory4\\AbstractFactory\\WaterFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:45:13.182Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "JsonExporter.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\JsonExporter.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\Export\\JsonExporter.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\JsonExporter.cs",
-              "RelativeToolTip": "Laboratory4\\Export\\JsonExporter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Title": "IAbstractFactory.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\AbstractFactory\\IAbstractFactory.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\AbstractFactory\\IAbstractFactory.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\AbstractFactory\\IAbstractFactory.cs",
+              "RelativeToolTip": "Laboratory4\\AbstractFactory\\IAbstractFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T13:09:49.942Z"
+              "WhenOpened": "2026-04-26T15:43:26.563Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "IExporter.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\IExporter.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\Export\\IExporter.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\IExporter.cs",
-              "RelativeToolTip": "Laboratory4\\Export\\IExporter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T13:09:34.559Z"
+              "Title": "name.xml",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\name.xml",
+              "RelativeDocumentMoniker": "Laboratory4\\name.xml",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\name.xml",
+              "RelativeToolTip": "Laboratory4\\name.xml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-28T19:35:08.545Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "ExportDecorator.cs",
-              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\Decorator\\ExportDecorator.cs",
-              "RelativeDocumentMoniker": "Laboratory4\\Export\\Decorator\\ExportDecorator.cs",
-              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Export\\Decorator\\ExportDecorator.cs",
-              "RelativeToolTip": "Laboratory4\\Export\\Decorator\\ExportDecorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAA8AAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Product.cs",
+              "RelativeDocumentMoniker": "Laboratory4\\Product.cs",
+              "ToolTip": "D:\\Study\\2course\\4term\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\Laboratory5\\Laboratory5\\Laboratory4\\Product.cs",
+              "RelativeToolTip": "Laboratory4\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T13:10:17.996Z"
+              "WhenOpened": "2026-04-24T13:31:03.474Z"
             },
             {
               "$type": "Document",
@@ -530,8 +515,7 @@
               "RelativeToolTip": "Laboratory4\\Laboratory4.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-24T14:37:08.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T14:37:08.222Z"
             }
           ]
         }
